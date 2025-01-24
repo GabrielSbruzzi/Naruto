@@ -14,7 +14,7 @@ public class DataLoader {
         Jutsu jutsu1 = new Jutsu("Rasengan", 50, 20, "Jutsu de chakra concentrado em forma esférica.");
         Jutsu jutsu2 = new Jutsu("Chidori", 60, 25, "Jutsu de ataque com chakra concentrado no braço.");
 
-        Personagem personagem1 = new Personagem("Naruto", 17, "Aldeia da Folha", 100, 100);
+        Personagem personagem1 = new Personagem("Naruto", 17, "Aldeia da Folha", 100);
         personagem1.adicionarJutsu(jutsu1.getNome());
         personagem1.adicionarJutsu(jutsu2.getNome());
 

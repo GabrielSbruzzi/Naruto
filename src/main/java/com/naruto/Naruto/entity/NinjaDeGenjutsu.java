@@ -6,7 +6,7 @@ import jakarta.persistence.Entity;
 public class NinjaDeGenjutsu extends Personagem implements Ninja {
 
     public NinjaDeGenjutsu(String nome, int idade, String aldeia, int chakra) {
-        super(nome, idade, aldeia, chakra, 100);
+        super(nome, idade, aldeia, chakra);
     }
 
     public void usarJutsu() {

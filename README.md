@@ -50,8 +50,6 @@ A interface deve conter os métodos:
 
 - **Java**: Linguagem principal do projeto.
 - **JUnit 5**: Framework para criação e execução de testes unitários.
-- **Spring Boot**: Framework utilizado para facilitar a construção da aplicação.
-- **Springdoc OpenAPI**: tilizado para gerar a documentação Swagger da API, permitindo visualizar e testar os endpoints da API diretamente através de uma interface web.
 - **H2 Database**: Banco de dados relacional em memória utilizado para persistir as informações do projeto.
 
 ---

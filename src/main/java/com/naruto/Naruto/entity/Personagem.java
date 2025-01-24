@@ -20,7 +20,7 @@ public class Personagem {
 
     private int chakra;
 
-    public Personagem(String nome, int idade, String aldeia, int chakra, int i) {
+    public Personagem(String nome, int idade, String aldeia, int chakra) {
         this.nome = nome;
         this.idade = idade;
         this.aldeia = aldeia;
